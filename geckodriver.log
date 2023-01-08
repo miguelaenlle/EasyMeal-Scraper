@@ -1,0 +1,20 @@
+1673073500561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileLdWI4n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1673073502109	Marionette	INFO	Listening on port 59428
+1673073502607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1673073507112	Marionette	INFO	Stopped listening on port 59428
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1673073541585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileYOj7LP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1673073543132	Marionette	INFO	Listening on port 59513
+1673073543636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.eatingwell.com/recipes/ line 303 > scriptElement, line 2: TypeError: window.debug is undefined
+1673074001688	Marionette	INFO	Stopped listening on port 59513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
